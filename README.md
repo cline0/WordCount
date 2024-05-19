@@ -18,7 +18,9 @@
 > cargo 会将 `--` 之后的参数传给编译出来的产物（word-count.ext）
 ## 测试
 对于 test.txt 我的程序的结果：
+
 ![ ](./images/word-count-test.png)
 
 wc 给出的结果：
+
 ![ ](./images/wc-test.png)
