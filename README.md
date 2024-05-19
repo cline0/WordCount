@@ -15,7 +15,7 @@
     cargo build -- --help
     cargo run  -- -w -c test.txt
 ```
-> cargo 会将 `--` 之后的参数传给编译出来的产物（word-count.ext）
+> cargo 会将 `--` 之后的参数传给编译出来的产物（word-count.exe）
 ## 测试
 对于 test.txt 我的程序的结果：
 
